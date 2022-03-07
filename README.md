@@ -5,7 +5,7 @@
 📧 denovokjh@snu.ac.kr
 
 ## Education
-- BS student, **Seoul National University**
+- B.S. student, **Seoul National University**
   * 🌼 Horticultural Science and Biotechnology,   *Mar 2020-Present*
   * 🖥️ Artificial Intelligence,   *Mar 2020-Present*
 
