@@ -2,7 +2,7 @@
 
 🏢 Seoul, Republic of Korea  
 🏫 Seoul National University, Korea  
-📧 e-mail denovokjh@snu.ac.kr
+📧 denovokjh@snu.ac.kr
 
 ## Education
 - BS student, **Seoul National University**
