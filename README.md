@@ -12,13 +12,12 @@ e-mail:e-mail: denovokjh@snu.ac.kr
   * Undergraduate Research Intern  *2021 Jul-2022 Feb*
 
 ## Skills
-- Python, C/C++, HTML, CSS, javascript
+- <img alt = "Python" src = "https://imgs.shields.io/badge/Python-#3776AB"></img>
+- WEB: HTML, CSS, JavaScript, Django-rest
 - Git, Vim, Linux
 
 <!--
 ### Hi there 👋
-
-
 **Junhyeong02/Junhyeong02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
