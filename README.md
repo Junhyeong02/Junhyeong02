@@ -1,16 +1,19 @@
-## KONG Junhyeong
+<div align="center"><h1>KONG Junhyeong</h1></div>
 
 e-mail:e-mail: denovokjh@snu.ac.kr
 
-### Education
+## Education
 - BS student, Seoul National University
-  * Horticultural Science and Biotechnology:blossom: *2020 Mar-Present*
-  * Artificial Intelligence:computer: *2020 Mar-Present*
+  * Horticultural Science and Biotechnology:blossom:  *2020 Mar-Present*
+  * Artificial Intelligence:computer:  *2020 Mar-Present*
 
-### Work expreience
+## Work expreience
 - Horticultural Crop Genomics Laboratory, Seoul Natinal University
-  * Undergraduate Research Intern, *2021 Jul-2022 Feb*
+  * Undergraduate Research Intern  *2021 Jul-2022 Feb*
 
+## Skills
+- Python, C/C++, HTML, CSS, javascript
+- Git, Vim, Linux
 
 <!--
 ### Hi there 👋
