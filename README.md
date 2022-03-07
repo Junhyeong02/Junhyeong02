@@ -6,12 +6,12 @@
 
 ## Education
 - BS student, **Seoul National University**
-  * 🌼 Horticultural Science and Biotechnology   *Mar 2020-Present*
-  * 🖥️ Artificial Intelligence   *Mar 2020-Present*
+  * 🌼 Horticultural Science and Biotechnology,   *Mar 2020-Present*
+  * 🖥️ Artificial Intelligence,   *Mar 2020-Present*
 
 ## Work expreience
 - Horticultural Crop Genomics Laboratory, Seoul National University
-  * Undergraduate Research Intern   *Jul 2021-Feb 2022*
+  * Undergraduate Research Intern,   *Jul 2021-Feb 2022*
 
 ## Skills
 - Back-end web: Python, django
