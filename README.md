@@ -12,7 +12,7 @@ e-mail:e-mail: denovokjh@snu.ac.kr
   * Undergraduate Research Intern  *2021 Jul-2022 Feb*
 
 ## Skills
-- <img alt = "Python" src = "https://img.shields.io/badge/Python-#3776AB.svg"></img>
+- <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg"></img>
 - WEB: HTML, CSS, JavaScript, Django-rest
 - Git, Vim, Linux
 
