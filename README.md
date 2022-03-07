@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### KONG Junhyeong
+
+- BS student, Seoul National University, Korea
+-- Horticultural Science and Biotechnology
+-- Artificial Intelligence
+
 <!--
 **Junhyeong02/Junhyeong02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
