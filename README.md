@@ -1,7 +1,7 @@
 <div align="center"><h1>KONG Junhyeong</h1></div>
 
-🏢 Seoul, Republic of Korea
-🏫 Seoul National University, Korea
+🏢 Seoul, Republic of Korea  
+🏫 Seoul National University, Korea  
 📧 e-mail denovokjh@snu.ac.kr
 
 ## Education
