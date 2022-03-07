@@ -4,17 +4,18 @@ e-mail:e-mail: denovokjh@snu.ac.kr
 
 ## Education
 - BS student, Seoul National University
-  * Horticultural Science and Biotechnology:blossom:  *2020 Mar-Present*
-  * Artificial Intelligence:computer:  *2020 Mar-Present*
+  * Horticultural Science and Biotechnology:blossom:   *2020 Mar-Present*
+  * Artificial Intelligence:computer:   *2020 Mar-Present*
 
 ## Work expreience
 - Horticultural Crop Genomics Laboratory, Seoul Natinal University
-  * Undergraduate Research Intern  *2021 Jul-2022 Feb*
+  * Undergraduate Research Intern   *2021 Jul-2022 Feb*
 
 ## Skills
-- Python 
-![Python](https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-- WEB: HTML, CSS, JavaScript, Django-rest
+- Back-end web: Python, django
+- Front-end web: HTML, CSS, JavaScript
+- Data analysis: Python, NumPy, pandas, MySQL
+- C/C++, Java, Perl
 - Git, Vim, Linux
 
 <!--
