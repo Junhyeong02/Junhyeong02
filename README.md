@@ -1,15 +1,17 @@
 <div align="center"><h1>KONG Junhyeong</h1></div>
 
-e-mail:e-mail: denovokjh@snu.ac.kr
+🏢 Seoul, Republic of Korea
+🏫 Seoul National University, Korea
+📧 e-mail denovokjh@snu.ac.kr
 
 ## Education
-- BS student, Seoul National University
-  * Horticultural Science and Biotechnology:blossom:   *2020 Mar-Present*
-  * Artificial Intelligence:computer:   *2020 Mar-Present*
+- BS student, **Seoul National University**
+  * 🌼 Horticultural Science and Biotechnology   *Mar 2020-Present*
+  * 🖥️ Artificial Intelligence   *Mar 2020-Present*
 
 ## Work expreience
-- Horticultural Crop Genomics Laboratory, Seoul Natinal University
-  * Undergraduate Research Intern   *2021 Jul-2022 Feb*
+- Horticultural Crop Genomics Laboratory, Seoul National University
+  * Undergraduate Research Intern   *Jul 2021-Feb 2022*
 
 ## Skills
 - Back-end web: Python, django
@@ -19,17 +21,11 @@ e-mail:e-mail: denovokjh@snu.ac.kr
 - Git, Vim, Linux
 
 <!--
-### Hi there 👋
-**Junhyeong02/Junhyeong02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project
 
-Here are some ideas to get you started:
+## Publication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Honor & Award
+
 -->
+
