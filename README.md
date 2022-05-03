@@ -7,7 +7,7 @@
 ## Education
 - B.S. student, **Seoul National University**
   * 🌼 Horticultural Science and Biotechnology,   *Mar 2020-Present*
-  * 🖥️ Artificial Intelligence,   *Mar 2020-Present*
+  * 🖥️ Artificial Intelligence,   *Mar 2021-Present*
 
 ## Work expreience
 - Horticultural Crop Genomics Laboratory, Seoul National University
