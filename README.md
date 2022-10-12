@@ -17,12 +17,11 @@
 - Back-end web: Python, django
 - Front-end web: HTML, CSS, JavaScript
 - Data analysis: Python, NumPy, pandas, MySQL
+- ML: PyTorch, pytorch-lightning
 - C/C++, Java, Perl
 - Git, Vim, Linux
 
 <!--
-## Project
-
 ## Publication
 
 ## Honor & Award
