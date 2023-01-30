@@ -13,6 +13,8 @@
 ## Work expreience
 - Horticultural Crop Genomics Laboratory, Seoul National University
   * Undergraduate Research Intern,   *Jul 2021-Feb 2022*
+- Bio & Health Informatics Laboratory, Seoul National University
+  * Undergraduate Research Intern,   *Jan 2023-*
 
 ## Skills
 - Data analysis: Python, NumPy, pandas, TensorFlow
