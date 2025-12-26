@@ -10,7 +10,7 @@
   * 🖥️ Artificial Intelligence,    *Mar 2021-Present*
 - Gyeongnam Science High School,    *Mar 2018-Feb 2020*
 
-## Work expreience
+## Work experience
 - Horticultural Crop Genomics Laboratory, Seoul National University
   * Undergraduate Research Intern,   *Jul 2021-Feb 2022*
 - Bio & Health Informatics Laboratory, Seoul National University
